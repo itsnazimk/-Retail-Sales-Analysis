@@ -10,7 +10,8 @@ A comprehensive SQL project uncovering retail sales trends, customer behavior, a
 * ⚡ **Advanced SQL Techniques** – Window functions, ranking, grouping, CTEs, and conditional logic for shift-based sales analysis
 * 📈 **Business Applications** – Identifying best-selling months, profitable customer segments, and optimizing product categories
 
-**MySQL, Aggregations, Date Functions, Window Functions, Sub Query , CTE **
+**MySQL, Aggregations, Date Functions, Window Functions, Sub Query , CTE**
+
 **🎯 Goal:** Transform transactional sales data into actionable insights that drive retail growth.
 
 ---
